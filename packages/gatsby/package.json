@@ -34,7 +34,7 @@
     "highlight.js": "^9.15.8",
     "json-ref-lite": "^1.1.0",
     "lodash": "^4.17.15",
-    "marked": "^0.6.3",
+    "marked": "^1.1.1",
     "minimatch": "^3.0.4",
     "pify": "^4.0.1",
     "prismjs": "^1.16.0",
